@@ -1,1 +1,1 @@
-A simple case that draw a moving circle.
+A simple case that can draw a moving circle.
